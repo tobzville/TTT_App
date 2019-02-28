@@ -1,0 +1,203 @@
+08:00,08:30,09:00,09:30,10:00,10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00, 16:30, 17:00, 17:30, 18:00, 18:30, 19:00, 19:30, 20:00, 20:30, 21:00, 21:30
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+Student Group: Al_Kswft_R_5 Master Of Science Software Engineering ,Student Group: Al_Kswft_R_5 Master Of Science Software Engineering ,
+Student Group: Al_Kswft_R_5 Master Of Science Software Engineering ,
+Activity,Module,Type,Start,End,Duration,Weeks,Room,Staff,Student Groups
+Software Engineering Project,Software Engineering Project,Lab/Prac,12:00,13:00,1:00,21-32,W202 Computer Lab 4,JACOB, PAUL,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Software Engineering Project,Lab/Prac,16:30,17:00,0:30,21-32,Z104 Civil CAD Room,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Software Engineering Project,Lab/Prac,17:00,18:00,1:00,21-32,Y203 CAD Lab,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Cyber Security 5,Cyber Security 5,Lec,18:00,20:00,2:00,21-32,Z203 Springboard Room,LEE, BRIAN,AL_KSWFT_R_5 Master of Science Software Engineering;AL_KSWPT_R_5 Master of Science Software Engineering
+Activity,Module,Type,Start,End,Duration,Weeks,Room,Staff,Student Groups
+Data Visualisation 5,Data Visualisation 5,Lec,9:00,11:00,2:00,21-32,U305 Classroom,DALY, MARK,AL_KSWFT_R_5 Master of Science Software Engineering;AL_KSWPT_R_5 Master of Science Software Engineering
+Database Systems 5,Database Systems 5,Lab/Prac,12:00,13:30,1:30,21-32,Z205 Software Lab 3,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Data Visualisation 5,Data Visualisation 5,Lab/Prac,13:30,15:30,2:00,21-32,Z205 Software Lab 3,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Rich Internet Applications 5,Internet and Multimedia System,Lab/Prac,16:00,18:00,2:00,21-32,Y202 CAD Lab,GIBLIN, MARY,AL_KSWFT_R_5 Master of Science Software Engineering
+Activity,Module,Type,Start,End,Duration,Weeks,Room,Staff,Student Groups
+Software Engineering Project,Software Engineering Project,Lab/Prac,16:00,18:00,2:00,21-32,V105 Software Lab 8,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Activity,Module,Type,Start,End,Duration,Weeks,Room,Staff,Student Groups
+Database Systems 5,Database Systems 5,Lec,9:00,11:00,2:00,21-32,Z104 Civil CAD Room,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering;AL_KSWPT_R_5 Master of Science Software Engineering
+Cyber Security 5,Cyber Security 5,Lab/Prac,13:00,15:00,2:00,21-32,V105 Software Lab 8,ANJUM, MUHAMMAD SHAKEEL,AL_KSWFT_R_5 Master of Science Software Engineering
+Rich Internet Applications 5,Internet and Multimedia System,Lec,15:00,17:00,2:00,21-32,X207 GD Lab 1,GIBLIN, MARY,AL_KSWFT_R_5 Master of Science Software Engineering;AL_KSWPT_R_5 Master of Science Software Engineering
+Activity,Module,Type,Start,End,Duration,Weeks,Room,Staff,Student Groups
+Software Engineering Project,Software Engineering Project,Lab/Prac,12:00,13:00,1:00,21-32,X206 Software Lab 1,QIAO, YUANSONG,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Software Engineering Project,Lab/Prac,14:00,15:00,1:00,21-32,X206 Software Lab 1,ASGHAR, MAMOONA,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Software Engineering Project,Lab/Prac,15:00,15:30,0:30,21-32,Y203 CAD Lab,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Software Engineering Project,Lab/Prac,15:30,16:00,0:30,21-32,Y203 CAD Lab,SCOTT, DAVID,AL_KSWFT_R_5 Master of Science Software Engineering
+Software Engineering Project,Project,Lab/Prac,15:30,16:00,0:30,21-32,V207 Telecoms Lab,MCCLEAN, CORMAC,AL_KSWFT_R_5 Master of Science Software Engineering
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+
+
+
+,
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,,
+
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,,
+
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",true);'>< Previous Week's Timetable</a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+,
+
+   document.write("<font size='1'><a href='javascript:PrevNextWks("+ String.fromCharCode(34) + escape(location.href) + String.fromCharCode(34) + ",false);'>Next Week's Timetable ></a>");
+
+
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+
+
+
+,,,
+,,
+
+
+
+
+document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");Print TimetableDate/Time: 13 Feb 2019 14:29
+
+
+,document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");Print TimetableDate/Time: 13 Feb 2019 14:29,document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");,Print Timetable,Date/Time: 13 Feb 2019 14:29,,
+document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");Print TimetableDate/Time: 13 Feb 2019 14:29,document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");,Print Timetable,Date/Time: 13 Feb 2019 14:29,,
+document.write("<a href='http://" + pagehost + "/studentset.htm'><< Back</a>");,Print Timetable,Date/Time: 13 Feb 2019 14:29
+
+
+
+
+Template: SWSCUST Student Set TextSpreadsheet
+
+
+,Template: SWSCUST Student Set TextSpreadsheet,Template: SWSCUST Student Set TextSpreadsheet,,,,
+Template: SWSCUST Student Set TextSpreadsheet,Template: SWSCUST Student Set TextSpreadsheet,,,,
+Template: SWSCUST Student Set TextSpreadsheet,,
+
+
+
+
+
+
+
+,,,
+,,

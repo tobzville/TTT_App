@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    padding : 0px;
+}
+#divBackground {
+    color: white;
+    height: 800px;
+    width: auto;
+    position: relative;
+}
+
+#divContents{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top:0px;
+    bottom: 0px;
+}
+
+#divBackgroundImage {
+    background-image: url("/static/ait.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top:0px;
+    bottom: 0px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 2px Black;
+}

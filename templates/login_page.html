@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TTTimetable & Scheduler </title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <meta name="google-signin-client_id"
+          content="718266241647-6p6n5sg0q65oj5ggkbod0qng0kionnfm.apps.googleusercontent.com">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../script.js"></script>
+    <style>
+        .g-signin2 {
+        margin-left: 500px;
+        margin-top: 200px;
+        }
+
+        .data{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- <img src="static/logo.jpg" /> -->
+    <div id="divBackground">
+        <div id="divBackgroundImage"></div>
+            <div id="divContents">
+                <h1> TTTimetable Scheduler </h1>
+                <p> TTT is software developed for reminding about lectures
+                in schools <br>, colleges and institutes
+                and can be used by students as well as teachers.
+                </p>
+                <div class="g-signin2" data-onsuccess="onSignIn"></div>
+                <div class="data">
+                    <p> Profile Details </p>
+                    <img id="pic" class="img-circle" width="100" height="100"/>
+                    <p> Email Address </p>
+                    <p id="email" class="alert alert-danger"></p>
+                    <button onclick="signout()" class="btn btn-danger"> Signout </button>
+                </div>
+            </div>
+    </div>
+</body>
+</html>
